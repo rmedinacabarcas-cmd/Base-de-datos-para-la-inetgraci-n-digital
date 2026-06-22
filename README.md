@@ -1,4 +1,4 @@
-# Sistema de base de datos — Empresa de materiales de construcción (alquiler)
+# Sistema de base de datos  Empresa de materiales de construcción (alquiler)
 
 ## Contexto
 
