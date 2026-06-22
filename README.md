@@ -38,7 +38,7 @@ El sistema está compuesto por 4 tablas:
 
 1. Clona el repositorio.
 2. Abre `create_tables.sql` en SQL Server Management Studio (o tu cliente de SQL Server preferido).
-3. Ejecuta el script completo — crea la base de datos `Material_de_Arriendo` y las 4 tablas en el orden correcto (las tablas sin dependencias se crean primero, seguidas de las que tienen llaves foráneas).
+3. Ejecuta el script completo  crea la base de datos `Material_de_Arriendo` y las 4 tablas en el orden correcto (las tablas sin dependencias se crean primero, seguidas de las que tienen llaves foráneas).
 
 ## Autor
 
