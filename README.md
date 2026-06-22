@@ -13,7 +13,7 @@ operación. El nombre de la empresa se omite por confidencialidad.
 
 ## Diagrama entidad-relación
 
-![Diagrama ER](erd_material_arriendo(2).png)
+![Diagrama ER](redm.png)
 
 ## Diseño
 
